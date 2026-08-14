@@ -1,0 +1,16 @@
+{
+  "title": "Common-multiplier 91 obstruction for binary Legendre pairs of length 115",
+  "claim": "There is no binary Legendre pair of length 115 for which 91 belongs to the multiplier group of both sequences.",
+  "equivalent_normalized_claim": "After independent cyclic shifts, there is no length-115 binary Legendre pair whose two sequences are both fixed by decimation by 91.",
+  "parameters": {
+    "length": 115,
+    "multiplier": 91,
+    "normalized_sequence_sum": 1,
+    "minus_one_support_size": 57,
+    "sds_lambda": 56,
+    "compression_modulus": 23,
+    "compression_fiber_size": 5
+  },
+  "scope": "This excludes only the common-multiplier-91 symmetry class. It does not resolve unrestricted existence of binary Legendre pairs of length 115.",
+  "reviewStatus": "pending"
+}
